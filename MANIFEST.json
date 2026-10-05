@@ -86,6 +86,14 @@
     "tools/verify_repo.py": {
       "sha256": "2e60db12b2e0503951beffc8026272a368433866d5e6b3e0c7a22fd2af49de86",
       "bytes": 646
+    },
+    "data/kinaya_rules.json": {
+      "bytes": 3216,
+      "sha256": "afdbb55adc95fd47b4d7dc057c8ce11c55d069c189cfb7ab29deb1db1124e277"
+    },
+    "tests/test_kinaya.py": {
+      "bytes": 2722,
+      "sha256": "a49e9b11245e470135eceb344a050388733e0e361efa1beb2a1ac64c2e3564a0"
     }
   }
 }
