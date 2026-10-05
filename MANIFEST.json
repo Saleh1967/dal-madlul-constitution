@@ -1,0 +1,91 @@
+{
+  "repo": "dal-madlul-constitution",
+  "sealed_at": "2026-10-05T18:20-ONTOLOGY-TRANSFER",
+  "charter": "الدال والمدلول معًا — طبقة الدلالة بعد الإملاء وقبل المبنيات",
+  "files": {
+    ".github/workflows/ci.yml": {
+      "sha256": "d0db724ca3f6fd6330a740437ceded9c1d202982c70287328b9acff899e3e194",
+      "bytes": 312
+    },
+    "README.md": {
+      "sha256": "e0104c2988c2105c758d0a3a2eed8d648dea65bbd9643735a289518d3893c3a8",
+      "bytes": 1787
+    },
+    "data/nabhani_sources.json": {
+      "sha256": "da5e1bdc1f165d7479d399f2fcec0d334075b1ce910f77a50a25b874d8f8501d",
+      "bytes": 3062
+    },
+    "data/ontology_sources.json": {
+      "sha256": "0bcb9c048767a011e3680b9e031ccf809d18e8d9f2021159c593ca02d5b5bf59",
+      "bytes": 2888
+    },
+    "docs/ONTOLOGY_TRANSFER.md": {
+      "sha256": "08213ae5bc79f1b9344c3e8be769fbb07699d151a00a367019278c7482e495e2",
+      "bytes": 3082
+    },
+    "governance/history/amendments.jsonl": {
+      "sha256": "fe4bf6f9b4db3d7c5286384fbd50e0d4e26e5bf448a75260e0095c829b584fd4",
+      "bytes": 1376
+    },
+    "governance/registry/claims_ledger.json": {
+      "sha256": "0cdd1c71ea3547fd87f4ff7c1fa8b722cca47e2746f13f4277c4187f1deecfba",
+      "bytes": 55366
+    },
+    "src/slge/algebra116.py": {
+      "sha256": "ddc2925c8f444acdb03f20bc4aa761f440b46536a882fd16c86231bcc23fee54",
+      "bytes": 6360
+    },
+    "src/slge/slge.py": {
+      "sha256": "11c0faa7591449165c8908a520e1e1933193f5c52793477d076b8a780b4d1bfa",
+      "bytes": 13648
+    },
+    "src/slge/slge_dalil.py": {
+      "sha256": "e27e90a5d9b4aae181a5385fa2eba9cfa4a442368f3fb4e3b1fac5342ce633fe",
+      "bytes": 3975
+    },
+    "src/slge/slge_laws.py": {
+      "sha256": "4a8bc48266f25536ce4a4f7549c05edbfb1381e36b35477ef18b9f51609dc99c",
+      "bytes": 6729
+    },
+    "src/slge/slge_layers.py": {
+      "sha256": "44303d0fbe111020d7a7c4cc039ac6081153b6795774c5c77c27f9ccdb926f6f",
+      "bytes": 5529
+    },
+    "src/slge/slge_order.py": {
+      "sha256": "516ef88c8dd377b2c32d910c013060ad22f69a25c05a2341d387c0938dc11d97",
+      "bytes": 4703
+    },
+    "src/slge/slge_phon.py": {
+      "sha256": "eaa6ba499b7270683e566ca671ae4857861df97c29419d08efc8d175dc22e45f",
+      "bytes": 5026
+    },
+    "src/slge/slge_reverse.py": {
+      "sha256": "cf54108cdc1224071a15dcb116ae69c4786d54007bfd475ae6cf01af41cf8f89",
+      "bytes": 5899
+    },
+    "src/slge/slge_unicode.py": {
+      "sha256": "6cb309eff74d73139eb91e7078222e7da5170fa1314b14f9315b27b534c59e1b",
+      "bytes": 3602
+    },
+    "src/slge/slge_wazun.py": {
+      "sha256": "0dd79c4810cc0dee2fb6476d95759f2651b51ddd1d0ac755ed59c8be54e844ea",
+      "bytes": 3087
+    },
+    "tests/test_dalil.py": {
+      "sha256": "2ab1aeb622ab29b05b2cd3aa85cd9df9b1945f4fbc35f3f56aa1d6648ae0320a",
+      "bytes": 755
+    },
+    "tests/test_ontology_strict.py": {
+      "sha256": "cb55e60cd0c8243a0ccd6e9f9ac02a31b3f389f3237841fef8ae7f2adfa0a2fc",
+      "bytes": 2540
+    },
+    "tests/test_slge.py": {
+      "sha256": "3911fb56a45470b9f0f4263466a04ac099c3f6fb1848fb675dbd7d8d3a4924a6",
+      "bytes": 274
+    },
+    "tools/verify_repo.py": {
+      "sha256": "2e60db12b2e0503951beffc8026272a368433866d5e6b3e0c7a22fd2af49de86",
+      "bytes": 646
+    }
+  }
+}

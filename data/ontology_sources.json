@@ -1,0 +1,36 @@
+{
+ "transfer_id": "ONTOLOGY-TRANSFER-1",
+ "decision": "adopt alghanem mature chain as nucleus by proxy; taaqol classifier as annex; algebra placeholder honored as EMPTY with freeze-ban respected",
+ "sources": [
+  {"id": "alghanem_ontology", "repo": "alghanem", "commit": "c5819fc", "grade": "B", "maturity": "complete",
+   "note": "16 files/7605 lines; chain PK_0->O_0->O_L->O_AR; 15 kinds; 3-level nucleus; tests 9+17; headers and enumerations only, code not run here"},
+  {"id": "taaqol_classifier", "repo": "sonaiso/Taaqol-GPT", "commit": "91dad10", "grade": "B", "maturity": "classifier_only",
+   "note": "g0_c4_ontological_classifier.py 371 lines; classifies only, no verdicts; annex to the nucleus"},
+  {"id": "algebra_placeholder", "repo": "Algebra", "commit": "ac01f1d", "grade": "E", "maturity": "empty_placeholder",
+   "note": ".gitkeep only; constitution clauses FoundationalInventoryOpen and NoClosedOPI0TupleAtGMinus1; we honor the freeze-ban and build nothing on empty"}
+ ],
+ "discipline": [
+  {"id": "candidate_needs_both_claims", "text": "type candidate needs necessity-claim AND irreducibility-claim, else rejected at creation", "adopted": true},
+  {"id": "essence_not_function", "text": "essence is not function; type-function relation is a license with direction, not containment", "adopted": true},
+  {"id": "license_is_hash_pointer", "text": "license reference is a hash pointer to PK_0, not free text (linguistic_v2)", "adopted": true},
+  {"id": "interpretation_three_levels", "text": "inventory then statement-content then facts; no fact without supporting evidence; unknown is not negated", "adopted": true},
+  {"id": "naming_is_relation", "text": "naming is relation not identity; proper name yields no derived description", "adopted": true},
+  {"id": "token_not_individual", "text": "token is not individual; occurrence verified by byte-match", "adopted": true},
+  {"id": "no_closed_ontology_at_g_minus_1", "text": "Algebra constitution: no closed-ontology freeze at G-1", "adopted": true}
+ ],
+ "onto_kinds_reported": ["THING", "IDENTITY", "ATTRIBUTE", "STATE", "EVENT", "RELATION", "ROLE", "QUANTITY", "REFERENCE", "TRANSFORMATION", "CONDITION", "PREVENTER", "TRACE", "REMAINDER", "UNREAD"],
+ "mapping": {
+  "حامل/حالة (حامل/حالة/موضع)": "ATTRIBUTE/STATE",
+  "الحدث (فعل/مصدر)": "EVENT",
+  "النسب الثلاث (إسنادية/تقييدية/إضافية)": "RELATION",
+  "التحولات (إعراب/تصريف/تنوين)": "TRANSFORMATION",
+  "الأدوات والإشارة": "REFERENCE",
+  "المقامات (متكلم/مخاطب/غائب)": "ROLE",
+  "الكم (عدد/تثنية/جمع)": "QUANTITY",
+  "المجهول/غير المقروء": "UNREAD",
+  "الجوهر (ماهية الشيء)": "THING",
+  "المانع": "PREVENTER",
+  "الشرط": "CONDITION",
+  "الأثر (المد/الوقف)": "TRACE"
+ }
+}
