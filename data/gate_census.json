@@ -1,0 +1,21 @@
+{
+ "files": {
+  "kinaya_rules.json": "afdbb55adc95fd47b4d7dc057c8ce11c55d069c189cfb7ab29deb1db1124e277",
+  "nabhani_sources.json": "da5e1bdc1f165d7479d399f2fcec0d334075b1ce910f77a50a25b874d8f8501d",
+  "ontology_sources.json": "0bcb9c048767a011e3680b9e031ccf809d18e8d9f2021159c593ca02d5b5bf59"
+ },
+ "sentences": 55,
+ "words": 480,
+ "status": {
+  "DEFER": 466,
+  "OUTSIDE_DECLARED_DOMAIN": 6,
+  "REJECT": 8
+ },
+ "reasons": {
+  "DEFER:UNVOCALIZED_WORD_IS_NEVER_GUESSED": 455,
+  "DEFER:HARAKA_IS_ABSENT_AND_IS_NEVER_GUESSED": 11,
+  "REJECT:INITIAL_SUKUN_WITHOUT_REPAIR": 8,
+  "OUTSIDE_DECLARED_DOMAIN:-": 6
+ },
+ "certificates": []
+}
